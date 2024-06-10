@@ -13,8 +13,6 @@
 - Sole proprietor of "Quraner Fariwala, the largest Holy Quran printing company in Bangladesh.
 - Developer at the "Company Developer Forum" United Kingdom.
   
-# A Profile
-- Technology Expert, Education Advocate, and Quran Printer
 # Background
 - Md Jafor Ahmad is a technology expert with deep expertise in Microsoft products, especially in cloud computing, data science, and artificial intelligence.
 - He has a bachelor's degree in computer science and engineering from the University of Dhaka and a master's degree in software engineering from the University of Liverpool.
