@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @mjahmad
-- 👀 I’m interested in  technology enthusiast with deep expertise in Microsoft products, working towards enhancing education and skills development in Bangladesh.
+- 👀 I’m interested in  technology enthusiast with deep expertise in Microsoft products, working towards enhancing education 
+   and skills development in Bangladesh.
 - I am the founder of "Innovate," dedicated to educational support activities,
 - and the sole proprietor of "Quraner Feriwala," the largest Quran printing company in Bangladesh.
 - Additionally, I serve as a developer at the UK Company Developer Forum.
 
 - My Shelf repository:
 
-# # ABOUT MJ-AHMAD
+# ABOUT MJ-AHMAD
 -Full Name- Md Jafor Ahmad:
 -Technology Expert, Education Advocate, and Owner of the Largest Quran Printing Organization in Bangladesh.
 -Born in Narsingdi, Bangladesh on 10 November 1989
