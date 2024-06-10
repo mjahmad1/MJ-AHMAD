@@ -1,3 +1,4 @@
+# Your companion in the expansion of knowledge
 - 👋 @mj-ahmad
 - MJ AHMAD is an innovative education and research platform where, through "Quraner Fariwala" and "INNOVATE," the boundaries of knowledge are expanded, and students are assisted in unlocking their full potential.
 - Through the "Quraner Fariwala" project, we engage in the printing, supply, and distribution of the Holy Quran, contributing to the spread of religious education.
@@ -18,7 +19,6 @@
 - He has a bachelor's degree in computer science and engineering from the University of Dhaka and a master's degree in software engineering from the University of Liverpool.
 - He also holds several Microsoft certifications, such as Azure Data Engineer Associate, Azure AI Engineer Associate, and Azure Developer Associate.
   
-# Your companion in the expansion of knowledge
 
 # Founder
 - Md Jafor Ahmad is the founder of Innovate, a non-profit organization that aims to improve education and skills development in Bangladesh.
